@@ -3,7 +3,7 @@ package M3;
 import java.util.Scanner;
 
 public class AdivinaNum {
-    static int NumSecreto = 19;
+    static int NumSecreto = 19;//int numeroSecreto = (int) (Math.random()*100)+1//
     public static void main(String[] args) {
         
         Instrucciones();
